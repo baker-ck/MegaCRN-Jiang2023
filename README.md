@@ -1,6 +1,6 @@
 ## MegaCRN Model Results
 
-This repository contains the trained MegaCRN model and test results. The implementation is based on the AAAI 2023 paper “Spatio-Temporal Meta-Graph Learning for Traffic Forecasting”, with the following citation:
+This repository contains a trained MegaCRN model and test results. The implementation is based on the AAAI 2023 paper “Spatio-Temporal Meta-Graph Learning for Traffic Forecasting”, with the following citation:
 
 ```bibtex
 @inproceedings{jiang2023spatio,
